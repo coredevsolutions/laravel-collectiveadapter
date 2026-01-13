@@ -1,5 +1,5 @@
 {
-    "name": "niel/collective-adapter",
+    "name": "coredevsolutions/collective-adapter",
     "description": "A compatibility solution for migrating old Laravel collective to new Laravel version",
     "type": "library",
     "require": {
@@ -8,12 +8,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Niel\\CollectiveAdapter\\": "src/"
+            "CoreDev\\CollectiveAdapter\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Niel Sibay"
+            "name": "coreDev Solutions Inc.",
+            "email": "info@coredev.ph"
         }
     ],
     "minimum-stability": "dev",
