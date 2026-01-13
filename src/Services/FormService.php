@@ -1,6 +1,6 @@
 <?php
 
-namespace Niel\CollectiveAdapter\Services;
+namespace CoreDev\CollectiveAdapter\Services;
 
 class FormService
 {
