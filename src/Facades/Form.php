@@ -1,6 +1,6 @@
 <?php
 
-namespace Niel\CollectiveAdapter\Facades;
+namespace CoreDev\CollectiveAdapter\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
